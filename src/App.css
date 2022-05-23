@@ -1,0 +1,35 @@
+* {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.center {
+  margin: auto;
+  margin-top: 90px;
+  border: 2px solid purple;
+  width: 700px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.message {
+  margin: auto;
+  margin-top: 30px;
+  border: 2px solid teal;
+  border-radius: 15px;
+  width: 700px;
+  padding: 30px;
+  font-size: 15px;
+}
+
+.connection__mesage {
+  margin: auto;
+  margin-top: 30px;
+  border: 2px solid purple;
+  border-radius: 15px;
+  width: 700px;
+  padding: 30px;
+  font-size: 15px;
+}
